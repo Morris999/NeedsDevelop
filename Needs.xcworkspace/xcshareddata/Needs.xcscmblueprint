@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A6489EE0523773686FA815C35962174DC4B38DF4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A6489EE0523773686FA815C35962174DC4B38DF4" : 9223372036854775807,
+    "55662C3370429A3EE3000F022653F440A45D37CB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7ECB3641-8AD1-4BF6-A6AF-B8EAEA3A9BD3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A6489EE0523773686FA815C35962174DC4B38DF4" : "NeedsDevelop\/",
+    "55662C3370429A3EE3000F022653F440A45D37CB" : "NeedsDevelop\/Needs\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Needs",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Needs.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Morris999\/Needs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55662C3370429A3EE3000F022653F440A45D37CB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Morris999\/Needs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A6489EE0523773686FA815C35962174DC4B38DF4"
+    }
+  ]
+}
