@@ -33,6 +33,7 @@ class HomeController: UICollectionViewController, UICollectionViewDelegateFlowLa
     
     func handleUpdateFeed() {
         handleRefresh()
+        print("Hello World")
     }
     
     func handleRefresh() {
